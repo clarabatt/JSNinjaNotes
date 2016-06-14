@@ -74,11 +74,14 @@ Anotações do curso [Javascript Ninja](http://blog.da2k.com.br/curso-javascript
 
 #### [Aula 14](Aula 14.js).
   * Mais __métodos de arrays__.
+  * __Reduce__.
+  * __IndexOf__.
 
 #### [Aula 15](Aula 15.js)
   * Javascript no __browser__.
   * __This__.
-  * __Arguments__.
+  * __Objeto Arguments__.
+  * __Construtores__.
 
 #### [Aula 16](Aula 16.js)
   * __Use strict__.
