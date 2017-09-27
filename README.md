@@ -115,7 +115,7 @@ Anotações do curso [Javascript Ninja](http://blog.da2k.com.br/curso-javascript
 #### Aula 24 - *Sem Anotações*
   * __Modularização__.
 
-#### Aula 25 - [HTML](aula25.html)/[JS](Aula 25.js)
+#### Aula 25 - [HTML](aula25.html)/[JS](aula25.js)
   * __Eventos Inline__.
   * Eventos __chamados no javascript__.
   * __EventListener__.
