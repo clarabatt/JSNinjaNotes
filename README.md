@@ -2,14 +2,14 @@
 Anotações do curso [Javascript Ninja](http://blog.da2k.com.br/curso-javascript-ninja/), ministrado por [Fernando Daciuk](https://github.com/fdaciuk).
 
 ## Aulas
-#### [Aula 01](Aula 01.js)
+#### [Aula 01](aula01.js)
   * Tipos de __valores__.
   * O que são __Objetos__.
   * O que são __arrays__.
   * O que são __funções__.
   * __Operadores e comparadores__.
 
-#### [Aula 02](Aula 02.js)
+#### [Aula 02](aula02.js)
   * Operadores: __and__ (&&), __or__ (||), __not__ (!), __unário__ (+), __inversor de sinal__ (-).
   * O que é __case sensitive__.
   * Tipos de __comentários__.
@@ -17,83 +17,83 @@ Anotações do curso [Javascript Ninja](http://blog.da2k.com.br/curso-javascript
   * __Identificadores__.
   * __Condicionais__.
 
-#### [Aula 03](Aula 03.js)
+#### [Aula 03](aula03.js)
   * __Tipos primitivos__.
   * Mais sobre __objetos__.
   * __Métodos__.
 
-#### [Aula 04](Aula 04.js)
+#### [Aula 04](aula04.js)
   * __Falsy e Truthy__.
   * Testes usando __if__ ou __!!__.
   * __Condicional Ternário__.
   * __Escopos de variáveis__.
 
-#### [Aula 05](Aula 05.js)
+#### [Aula 05](aula05.js)
   * __Retorno de funções__ além dos primitivos.
   * __Parâmetros de funções__ além dos primitivos.
 
-#### [Aula 06](Aula 06.js)
+#### [Aula 06](aula06.js)
   * __Operador vírgula__.
   * __Switch__.
   * __While__.
 
-#### [Aula 07](Aula 07.js)
+#### [Aula 07](aula07.js)
   * __Operador Módulo__.
   * __Length__.
   * __Push__.
   * __For__.
 
-#### [Aula 08](Aula 08.js)
+#### [Aula 08](aula08.js)
   * __Nomeando__ funções.
   * __Programação funcional__.
 
-#### [Aula 09](Aula 09.js)
+#### [Aula 09](aula09.js)
   * __Escopo__ de funções.
   * __Closures__.
   * __Hoisting__.
   * __IIFE__.
 
-#### [Aula 10](Aula 10.js)
+#### [Aula 10](aula10.js)
   * __Wrapper Objects__.
   * __Typeof__, testando tipos de valores.
 
-#### [Aula 11](Aula 11.js)
+#### [Aula 11](aula11.js)
   * __Do/while__.
   * __For/in__.
   * __Saltos__.
 
-#### [Aula 12](Aula 12.js)
+#### [Aula 12](aula12.js)
   * Mais sobre __objetos__.
   * __Criando__ objetos.
   * __Herança__.
   * __Funcionalidades__ para objetos.
   * Mais sobre __arrays__.
 
-#### [Aula 13](Aula 13.js)
+#### [Aula 13](aula13.js)
   * __Métodos de arrays__.
 
-#### [Aula 14](Aula 14.js).
+#### [Aula 14](aula14.js).
   * Mais __métodos de arrays__.
 
-#### [Aula 15](Aula 15.js)
+#### [Aula 15](aula15.js)
   * Javascript no __browser__.
   * __This__.
   * __Arguments__.
 
-#### [Aula 16](Aula 16.js)
+#### [Aula 16](aula16.js)
   * __Use strict__.
   * __Objeto String__.
 
-#### [Aula 17](Aula 17.js)
+#### [Aula 17](aula17.js)
   * __Expressões regulares 1__.
 
-#### [Aula 18](Aula 18.js)
+#### [Aula 18](aula18.js)
  * __Expressões regulares 2__.
 
-#### [Aula 19](Aula 19.js)
+#### [Aula 19](aula19.js)
  * __Expressões regulares 3__.
 
-#### [Aula 20](Aula 20.js)
+#### [Aula 20](aula20.js)
  * Parâmetros para __IIFE__.
  * __Loops__ em uma linha.
  * Métodos __Window__.
@@ -101,10 +101,10 @@ Anotações do curso [Javascript Ninja](http://blog.da2k.com.br/curso-javascript
  * __Manipulação de elementos__ (formulários).
  * Introdução a __eventos__.
 
-#### [Aula 21](Aula 21.js)
+#### [Aula 21](aula21.js)
   * __Síncrono e assíncrono__.
 
-#### [Aula 22](Aula 22.js)
+#### [Aula 22](aula22.js)
   * __Propriedades e métodos__ de funções.
   * __Prototype__.
   * __Array-like__.
@@ -115,7 +115,7 @@ Anotações do curso [Javascript Ninja](http://blog.da2k.com.br/curso-javascript
 #### Aula 24 - *Sem Anotações*
   * __Modularização__.
 
-#### Aula 25 - [HTML](Aula 25.html)/[JS](Aula 25.js)
+#### Aula 25 - [HTML](aula25.html)/[JS](Aula 25.js)
   * __Eventos Inline__.
   * Eventos __chamados no javascript__.
   * __EventListener__.
